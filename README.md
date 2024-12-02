@@ -37,7 +37,7 @@
 </div>
 
 
-<div id="stats" align="center" style="display: flex; flex-direction: column;">
+<div id="stats1" align="center" style="display: flex; flex-direction: column;">
     <h2>:fire: My Stats</h2>
     <a style="display: flex; align-items: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArseniyK1&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
